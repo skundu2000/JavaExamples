@@ -3,6 +3,7 @@ import java.util.ArrayList;
 public class ArraylistDemo {
 
 	public static void main(String[] args) {
+		
 		// Make a array list of colours
 		
 		ArrayList<String> clr = new ArrayList<String>();
