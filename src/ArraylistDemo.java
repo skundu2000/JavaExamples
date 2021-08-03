@@ -12,7 +12,7 @@ public class ArraylistDemo {
 		clr.add("Green");
 		clr.add("Yellow");
 		clr.add("Black");
-		
+		clr.add("White");
 		//print the list
 		
 		for(int i=0 ; i<clr.size(); i++) {
