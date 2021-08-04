@@ -22,7 +22,7 @@ public class AbstractClassDemo {
 		
 		Cat ob = new Cat();
 		ob.animalType();
-		ob.animalFood("salmon");
+		ob.animalFood("salmon  ");
 		
 		
 	}
